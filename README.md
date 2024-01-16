@@ -51,9 +51,13 @@ Aplicação feita para compras online de produtos de uma livraria por parte dos 
   ## Contribuindo
 
   1 - Fork o repositório
+  
   2 - Crie um branch para a sua contribuição: git checkout -b minha-contribuicao
+  
   3 - Faça as alterações e commit: git commit -m "Adiciona minha contribuicao"
+  
   4 - Push para o seu fork: git push origin minha-contribuicao
+  
   5 - Abra um pull request
 
   
